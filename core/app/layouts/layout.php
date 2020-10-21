@@ -29,7 +29,7 @@
       <div class="sidebar" data-color="blue">
       <div class="logo">
         <a href="./" class="simple-text">
-          BookMedik - Luis VP
+          BookMedik
         </a>
       </div>
 
